@@ -43,9 +43,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/The-Azam/The-Azam/refs/heads/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
 <hr/> 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
