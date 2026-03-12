@@ -50,7 +50,7 @@ with a focus on scalability, performance, and clean architecture.
 
 <h4>Databases</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
   <br/>
   Schema design · Indexing · Query optimization · Data consistency
 </p>
